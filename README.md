@@ -50,7 +50,7 @@
 
 ## 💻 Project
 
-Simple Food app created with React Native, Expo and Redux. Inspired by the tutorial by <a href="https://www.tutofox.com/react-native/tutorial-app-delivery-react-native-api-part-1-swiper/">Artyon</a>. This project was developed with React Hooks and use react navigation 4x and is ready for use with Reactotron.
+Simple Food app created with React Native, Expo and Redux. Inspired by the tutorial by <a href="https://www.tutofox.com/react-native/tutorial-app-delivery-react-native-api-part-1-swiper/">Artyom</a>. This project was developed with React Hooks and use react navigation 4x and is ready for use with Reactotron.
 
 
 ## :zap:  How To Use
@@ -59,7 +59,7 @@ If you want to run the application on your computer with an emulator, you must h
 Or scan the QR code for run this project in your smartphone.
 
 <p align="center">
-  <img id="AppPreview" src="https://res.cloudinary.com/infoinfomas/image/upload/v1594060371/Captura_gf4zkq.png" width="200px">
+  <img id="AppPreview" src="https://res.cloudinary.com/infoinfomas/image/upload/v1594060371/Captura_gf4zkq.png" width="500px">
 </p>
 
 
