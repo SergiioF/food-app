@@ -20,7 +20,7 @@
 ## 🔥 Application preview
 
 <p align="center">
-  <img id="AppPreview" src="AppPreview.gif" width="900px">
+  <img id="AppPreview" src="PreviewApp.gif" width="900px">
 </p>
 
 
