@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "foodApp",
+    "slug": "foodApp",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Simple Food app created with React Native, Expo and Redux.This project was developed with React Hooks and use react navigation 4x and is ready for use with Reactotron.",
+    "githubUrl": "https://github.com/SergiioF/food-app"
+  }
+}

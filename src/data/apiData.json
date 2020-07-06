@@ -1,0 +1,168 @@
+
+    {
+    "banner": [
+      "http://tutofox.com/foodapp//banner/banner-1.jpg",
+      "http://tutofox.com/foodapp//banner/banner-2.jpg",
+      "http://tutofox.com/foodapp//banner/banner-3.png"
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "American",
+        "color": "#fbc831",
+        "image": "http://tutofox.com/foodapp//categories/american.png"
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "color": "#9fd236",
+        "image": "http://tutofox.com/foodapp//categories/burger.png"
+      },
+      {
+        "id": 3,
+        "name": "Pizza",
+        "color": "orange",
+        "image": "http://tutofox.com/foodapp//categories/pizza.png"
+      },
+      {
+        "id": 4,
+        "name": "Drink",
+        "color": "#f2f2f2",
+        "image": "http://tutofox.com/foodapp//categories/drink.png"
+      }
+    ],
+    "food": [
+      {
+        "name": "Beef Grill",
+        "price": 24,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/beef-grill.png"
+      },
+      {
+        "name": "Chicken Picatta",
+        "price": 20,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+      },
+      {
+        "name": "Chicken Romesco",
+        "price": 21,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+      },
+      {
+        "name": "Chicken Grill",
+        "price": 22,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
+      },
+      {
+        "name": "Salmon Grill",
+        "price": 26,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/salmon-grill.png"
+      },
+      {
+        "name": "Salmon Romesco",
+        "price": 25,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/american/salmon-romesco.png"
+      },
+      {
+        "name": "Burger Home",
+        "price": 16,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-1.png"
+      },
+      {
+        "name": "MegaBurger",
+        "price": 16,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-2.png"
+      },
+      {
+        "name": "Burger Special",
+        "price": 16,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-3.png"
+      },
+      {
+        "name": "Burger Cheese",
+        "price": 16,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
+      },
+      {
+        "name": "Burger Farmer",
+        "price": 16,
+        "categorie": 1,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-5.png"
+      },
+      {
+        "name": "Mini Burger",
+        "price": 16,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-6.png"
+      },
+      {
+        "name": "Pizza Vegan",
+        "price": 14,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-1.png"
+      },
+      {
+        "name": "Pizza Bufalisimo",
+        "price": 14,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-2.png"
+      },
+      {
+        "name": "Pizza Haiwaiana",
+        "price": 13,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-3.png"
+      },
+      {
+        "name": "Pizza Peperoni",
+        "price": 16,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-4.png"
+      },
+      {
+        "name": "Pizza Vegan 2",
+        "price": 12,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-5.png"
+      },
+      {
+        "name": "Pizza Napolitana",
+        "price": 18,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
+      },
+      {
+        "name": "Coca cola",
+        "price": 2,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
+      },
+      {
+        "name": "Pepsi",
+        "price": 2,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+      },
+      {
+        "name": "Quatro",
+        "price": 2,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+      },
+      {
+        "name": "Sprite",
+        "price": 2,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+      }
+    ]
+  }
